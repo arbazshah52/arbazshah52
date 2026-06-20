@@ -1,6 +1,6 @@
 {
   "en": {
-    "site_title": "Fatima Al‑Murtadha | AI Software Developer",
+    "site_title": "Syed Arbaz Hussian shah | AI Software Developer",
 
     "nav_home": "Home",
     "nav_about": "About",
@@ -9,13 +9,13 @@
     "nav_projects": "Projects",
     "nav_contact": "Contact",
 
-    "hero_name": "Fatima Al‑Murtadha",
+    "hero_name": "Syed Arbaz Hussian shah",
     "hero_title": "AI‑Focused Full‑Stack Developer",
-    "hero_subtitle": "Bridging Law, Education, and Technology",
+    "hero_subtitle": "Business Administartion, Education, and Technology",
     "hero_tagline": "Dedicated, creative, and driven by growth.",
     "hero_quote": "“I bring a unique blend of analytical thinking, pedagogical clarity, and technical precision. My journey from law and education to software development has shaped a developer who understands systems—both human and technical—and thrives in collaborative environments where structure, curiosity, and shared problem‑solving drive the work forward.”",
     "hero_btn": "View My Portfolio",
-    "hero_caption": "AI, Law & Education in one journey",
+    "hero_caption": "AI, Business Intelligence in one journey",
 
     "about_title": "About Me",
     "about_p1": "I am an analytical and structured aspiring full‑stack developer specializing in AI. I have a strong foundation in backend development, databases, and system architecture, and I am expanding my skills in frontend development (JavaScript, React).",
@@ -62,31 +62,48 @@
     "career_1_title": "Software Developer Student (AI Specialization)",
     "career_1_text": "Studying programming, databases, agile development, and AI with Python at NBI Handelsakademin, Malmö. Includes two LIA internships.",
 
-    "career_2_date": "2020 – 2022",
-    "career_2_title": "Lecturer in Law",
-    "career_2_text": "Delivered lectures, developed structured teaching materials, and created an engaging learning environment at Sana’a University, Yemen.",
+    "career_2_date": "2021 – 2024",
+    "career_2_title": "Master in International Business Strategy",
+    "career_2_text": "Business Administration",
 
-    "career_3_date": "2016 – 2018",
-    "career_3_title": "Teacher",
-    "career_3_text": "Taught and supported students at Cambridge International School, adapting lessons to diverse learning needs.",
+    "career_3_date": "2014 – 2018",
+    "career_3_title": "Bachelor in Accounting and Finance",
+    "career_3_text": "Business Texation , Managerial Accounting , Managerial Finance , Business Law ",
 
-    "career_4_date": "2012 -2013",
-    "career_4_title": "Volunteer Teacher",
-    "career_4_text": "Provided educational support at Khoolah Bent Alazwar School, Amran.",
+    "career_4_date": "2019 -2021   WALL STREET EXCAHNGE COMPANY",
+    "career_4_title": "Internal Auditor",
+    "career_4_text": "Internal Auditing district side and check of all internal recored",
+
+    "career_5_date": "2022 -2024    FALKEN FLEET & BOLT AB",
+    "career_5_title": "TRANSPORT LEADER",
+    "career_5_text": "Manage  cities route and fill El-scooter .Manage Warehouse inventory ",
+
+    "career_6_date": "2024 -2025    YUN EXPRESS AB",
+    "career_6_title": "Quality Controll",
+    "career_6_text": "Warehouse operator and recored update ",
+
 
     "projects_title": "Projects",
 
-    "project_1_title": "Trading Platform (C#)",
+    "project_1_title": "Trading System(C#)",
     "project_1_text": "A trading platform with persistent data storage and structured system logic.",
 
-    "project_2_title": "Travel Agency – Group Project (C#)",
+    "project_2_title": "Travel Agency – Group Project (C# , Javascript)",
     "project_2_text": "A booking system where users can create and combine custom travel packages.",
 
-    "project_3_title": "Patient Journal DB (SQL)",
-    "project_3_text": "A healthcare journal system with role‑based access for doctors and nurses.",
+    "project_3_title": "Logistic Management System (SQL)",
+    "project_3_text": "How Warehouse system work till end of coustmer",
 
-    "project_4_title": "Healthcare System – Group Project (C#)",
+    "project_4_title": "Healthcare Management System – Group Project (C#)",
     "project_4_text": "A healthcare management system focused on data modeling and information handling.",
+
+    "project_5_title": "Film Booking System – Group Project (React, Docker and SQL Database)",
+    "project_5_text": "In this project fullstack developer learn full system of movies booking",
+
+    "project_6_title": "Word Master – Group Project (React, Docker, Gherikn and SQL Database)",
+    "project_6_text": "In this project learn frontend and backend Testion through different packages",
+
+    
 
     "project_link": "GitHub",
     "contact_title": "Contact & Languages",
@@ -94,17 +111,16 @@
     "contact_address_label": "Address:",
     "contact_address": "Malmö, Sweden",
     "contact_email_label": "Email:",
-    "contact_email": "sukaina77150@gmail.com",
+    "contact_email": "arbazshah11@gmail.com",
 
     "contact_lang_title": "Languages",
-    "lang_ar": "Arabic — Native",
     "lang_en": "English — Fluent",
     "lang_sv": "Swedish — Advanced",
 
     "contact_connect_title": "Connect"
   },
-  "sv": {
-    "site_title": "Fatima Al‑Murtadha | Fullstackutvecklare med fokus på AI",
+ "sv": {
+    "site_title": "Syed Arbaz Hussian Shah | AI-mjukvaruutvecklare",
 
     "nav_home": "Hem",
     "nav_about": "Om mig",
@@ -113,38 +129,38 @@
     "nav_projects": "Projekt",
     "nav_contact": "Kontakt",
 
-    "hero_name": "Fatima Al‑Murtadha",
+    "hero_name": "Syed Arbaz Hussian Shah",
     "hero_title": "Fullstackutvecklare med fokus på AI",
-    "hero_subtitle": "En bro mellan juridik, utbildning och teknik",
+    "hero_subtitle": "Företagsekonomi, utbildning och teknik",
     "hero_tagline": "Engagerad, kreativ och driven av utveckling.",
-    "hero_quote": "“Jag kombinerar analytiskt tänkande, pedagogisk tydlighet och teknisk precision. Min resa från juridik och utbildning till systemutveckling har format en utvecklare som förstår både mänskliga och tekniska system – och som trivs i samarbetande miljöer där struktur, nyfikenhet och gemensam problemlösning driver arbetet framåt.”",
+    "hero_quote": "”Jag kombinerar analytiskt tänkande, pedagogisk tydlighet och teknisk precision. Min resa från juridik och utbildning till systemutveckling har format en utvecklare som förstår både mänskliga och tekniska system – och som trivs i samarbetande miljöer där struktur, nyfikenhet och gemensam problemlösning driver arbetet framåt.”",
     "hero_btn": "Se min portfolio",
-    "hero_caption": "AI, juridik och utbildning i en resa",
+    "hero_caption": "AI och Business Intelligence i en och samma resa",
 
     "about_title": "Om mig",
-    "about_p1": "Jag är en analytisk, strukturerad och nyfiken blivande fullstackutvecklare med fokus på AI. Jag har en stark grund inom backend, databaser och systemarkitektur, och bygger nu vidare med frontendutveckling (JavaScript, React).",
-    "about_p2": "Jag lär mig snabbt, anpassar mig lätt och trivs i team där man samarbetar, kommunicerar och bygger smarta lösningar tillsammans.",
+    "about_p1": "Jag är en analytisk och strukturerad blivande fullstackutvecklare med fokus på AI. Jag har en stark grund inom backend-utveckling, databaser och systemarkitektur, och bygger nu vidare med frontendutveckling (JavaScript, React).",
+    "about_p2": "Jag lär mig snabbt, anpassar mig lätt och trivs i samarbetande miljöer där kvalitet, kommunikation och ständig förbättring är centralt.",
     "about_note_title": "Personlig reflektion",
-    "about_note_text": "“Min resa genom olika länder, roller och områden har lärt mig uthållighet, anpassningsförmåga och värdet av livslångt lärande.”",
+    "about_note_text": "”Min resa genom olika länder, ämnesområden och roller har lärt mig uthållighet, anpassningsförmåga och kraften i livslångt lärande.”",
 
     "skills_title": "Kompetensprofil",
 
     "skills_backend_title": "Programmering & Backend",
     "skills_backend_1": "C#, Java, Python",
-    "skills_backend_2": "API‑design",
+    "skills_backend_2": "API-design",
     "skills_backend_3": "Systemarkitektur",
     "skills_backend_4": "Objektorienterad programmering",
 
     "skills_db_title": "Databaser & SQL",
-    "skills_db_1": "ER‑modellering",
+    "skills_db_1": "ER-modellering",
     "skills_db_2": "Normalisering",
-    "skills_db_3": "SQL‑frågor",
+    "skills_db_3": "SQL-frågor",
     "skills_db_4": "Datamodellering",
 
     "skills_frontend_title": "Frontend",
     "skills_frontend_1": "HTML, CSS, JavaScript",
     "skills_frontend_2": "React",
-    "skills_frontend_3": "UI/UX‑förståelse",
+    "skills_frontend_3": "UI/UX-förståelse",
 
     "skills_tools_title": "Verktyg",
     "skills_tools_1": "VS Code",
@@ -160,47 +176,61 @@
     "skills_agile_3": "Testning",
     "skills_agile_4": "Dokumentation",
 
-    "career_title": "Arbetslivserfarenhet",
+    "career_title": "Karriärresa",
 
     "career_1_date": "2025 – Nuvarande",
-    "career_1_title": "Mjukvaruutvecklare (AI‑inriktning), student",
-    "career_1_text": "Studerar programmering, databaser, agilt arbete och AI med Python på NBI Handelsakademin i Malmö. Inkluderar två LIA‑perioder.",
+    "career_1_title": "Mjukvaruutvecklare (AI-inriktning), student",
+    "career_1_text": "Studerar programmering, databaser, agilt arbete och AI med Python på NBI Handelsakademin i Malmö. Inkluderar två LIA-perioder.",
 
-    "career_2_date": "2020 – 2022",
-    "career_2_title": "Universitetslärare",
-    "career_2_text": "Höll föreläsningar, skapade strukturerat undervisningsmaterial och byggde en trygg och engagerande lärmiljö vid Sana’a University i Jemen.",
+    "career_2_date": "2021 – 2024",
+    "career_2_title": "Master i International Affers Strategi",
+    "career_2_text": "Företagsekonomi",
 
-    "career_3_date": "2016 – 2018",
-    "career_3_title": "Lärare",
-    "career_3_text": "Undervisade och stöttade elever på Cambridge International School, anpassade undervisningen efter olika behov.",
+    "career_3_date": "2014 – 2018",
+    "career_3_title": "Kandidatexamen i Redovisning och Finans",
+    "career_3_text": "Företagsbeskattning, verksamhetsstyrning, finansiell styrning, affärsjuridik",
 
-    "career_4_date": "2012 -2013",
-    "career_4_title": "Volontärlärare",
-    "career_4_text": "Bidrog med undervisning och stöd på Khoolah Bent Alazwar School i Amran.",
+    "career_4_date": "2019 – 2021   Wall Street Exchange Company",
+    "career_4_title": "Internrevisor",
+    "career_4_text": "Internrevision på distriktsnivå och kontroll av all intern dokumentation",
+
+    "career_5_date": "2022 – 2024   Falken Fleet & Bolt AB",
+    "career_5_title": "Transportledare",
+    "career_5_text": "Hanterade stadsrutter och påfyllning av elsparkcyklar. Hanterade lagerinventering",
+
+    "career_6_date": "2024 – 2025   Yun Express AB",
+    "career_6_title": "Kvalitetskontroll",
+    "career_6_text": "Lageroperatör och uppdatering av dokumentation",
 
     "projects_title": "Projekt",
 
-    "project_1_title": "Trading Platform (C#)",
+    "project_1_title": "Handelssystem (C#)",
     "project_1_text": "En handelsplattform med lagring av data och tydlig systemlogik.",
-    "project_2_title": "Travel Agency – Grupprojekt (C#)",
+
+    "project_2_title": "Resebyrå – Grupprojekt (C#, JavaScript)",
     "project_2_text": "Ett bokningssystem där användare kan skapa och kombinera egna resepaket.",
 
-    "project_3_title": "Patient Journal DB (SQL)",
-    "project_3_text": "Ett journalsystem med rollbaserad åtkomst för läkare och sjuksköterskor.",
+    "project_3_title": "Logistikhanteringssystem (SQL)",
+    "project_3_text": "Hur ett lagersystem fungerar hela vägen till kunden",
 
-    "project_4_title": "Healthcare System – Grupprojekt (C#)",
+    "project_4_title": "Vårdhanteringssystem – Grupprojekt (C#)",
     "project_4_text": "Ett vårdsystem med fokus på datamodellering och informationshantering.",
 
-    "project_link": "GitHub",
+    "project_5_title": "Filmbokningssystem – Grupprojekt (React, Docker och SQL-databas)",
+    "project_5_text": "I detta projekt lärde sig fullstackutvecklaren hela systemet för filmbokning",
 
+    "project_6_title": "Word Master – Grupprojekt (React, Docker, Gherkin och SQL-databas)",
+    "project_6_text": "I detta projekt lärdes frontend- och backend-testning genom olika paket",
+
+    "project_link": "GitHub",
     "contact_title": "Kontakt & Språk",
     "contact_info_title": "Kontakt",
+    "contact_address_label": "Adress:",
     "contact_address": "Malmö, Sverige",
-    "contact_email_label": "E‑post:",
-    "contact_email": "sukaina77150@gmail.com",
+    "contact_email_label": "E-post:",
+    "contact_email": "arbazshah11@gmail.com",
 
     "contact_lang_title": "Språk",
-    "lang_ar": "Arabiska — Modersmål",
     "lang_en": "Engelska — Flytande",
     "lang_sv": "Svenska — Avancerad",
 
