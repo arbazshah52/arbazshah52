@@ -1,5 +1,5 @@
 ### 💫 About Me:
-Backend-driven • Analytical • Detail-oriented.
+• Full-stack Developer • Buiness Analytical • Business Intelligence  • Accountant •Business controller
 
 I am a Software Developer student specializing in AI at NBI Handelsakademin in Malmö, with a strong foundation in backend development, databases, system architecture, and data-driven applications. I enjoy building structured, scalable, and meaningful digital solutions.
 
