@@ -5,12 +5,15 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Syed Arbaz Shah — Portfolio</title>
+  <link rel="icon" href="./favicon.ico" />
   <link
     href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Exo+2:wght@300;400;500;600&display=swap"
     rel="stylesheet" />
+  <link rel="stylesheet" href="./style.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.2/babel.min.js"></script>
+  <script src="./script.js" defer></script>
   <style>
     * {
       margin: 0;
@@ -1233,7 +1236,7 @@
         uploadCert: 'Upload certificate image',
         verified: 'Verified', inProgress: 'In Progress',
         qs: ["What are his skills?", "Tell me about his experience", "What projects has he built?", "Why hire Arbaz?"],
-        footer: 'Built with passion in Malmö, Sweden'
+        footer: 
       },
       sv: {
         nav: ['Kompetenser', 'Erfarenhet', 'Certifikat', 'Projekt', 'Utbildning', 'AI Chat', 'Kontakt'],
@@ -1323,8 +1326,8 @@
     const ARBAZ_CONTEXT = `You are Syed Arbaz Shah's personal AI assistant on his portfolio website. Be friendly, concise and professional. Answer in the same language the user writes in (Swedish or English).
 
 About Arbaz:
-- Full name: Syed Arbaz Shah, based in Malmö, Sweden
-- Email: arbazhussain067@gmail.com | 
+- Full name: Syed Arbaz Shah,
+- Email: arbazshah11@gmail.com | 
 - Education: Software Dev with AI at NBI Handelsakademin Malmö (2025-2027 ongoing), MSc International Business Strategy Linnaeus University (2021-2024), BSc Accounting & Finance (2014-2018)
 - Current role: Bookkeeper part-time at Hafsi AB using Fortnox (2025-present)
 - Past roles: Quality Controller Yun Express (2024-2025), Fleet Ops Bolt AB (2022-2024), Terminal Worker Airmee (2023-2024), Internal Auditor Wall Street Exchange Pakistan (2019-2021)
@@ -1464,10 +1467,10 @@ About Arbaz:
 
           {/* TOP CONTACT BAR */}
           <div className="top-bar">
-            <a className="top-contact" href="mailto:arbazhussain067@gmail.com"><span>📧</span>arbazhussain067@gmail.com</a>
-            <a className="top-contact" href="tel:+46736200637"><span>📞</span>+46 736 200 637</a>
-            <a className="top-contact" href="https://www.linkedin.com/in/syed-arbaz-hussain-shah-788921100" target="_blank" rel="noreferrer"><span>💼</span>LinkedIn</a>
-            <a className="top-contact" href="#"><span>📍</span>Malmö, Sweden</a>
+            <a className="top-contact" href="mailto:arbazshah11@gmail.com"><span>📧</span>arbazshah11@gmail.com</a>
+            <a className="top-contact" href=""><span>📞</span></a>
+            <a className="top-contact" href="" target="_blank" rel="noreferrer"><span>💼</span>LinkedIn</a>
+            <a className="top-contact" href="#"><span>📍</span></a>
           </div>
 
           {/* NAV */}
@@ -1598,11 +1601,11 @@ About Arbaz:
               <p style={{ color: 'var(--gray)', marginBottom: '0.5rem' }}>{d.contactDesc}</p>
               <div className="contact-grid">
                 {[
-                  ['📧', 'Email', 'arbazhussain067@gmail.com', 'mailto:arbazhussain067@gmail.com'],
-                  ['📞', 'Phone', '+46 736 200 637', 'tel:+46736200637'],
-                  ['💼', 'LinkedIn', 'syed-arbaz-hussain-shah', 'https://www.linkedin.com/in/syed-arbaz-hussain-shah-788921100'],
+                  ['📧', 'Email', 'arbazshah11@gmail.com', 'mailto:arbazshah11@gmail.com'],
+                  ['📞', 'Phone', ],
+                  ['💼', 'LinkedIn', 'syed-arbaz-hussain-shah', ],
                   ['💻', 'GitHub', 'View Projects', 'https://github.com'],
-                  ['📍', 'Location', 'Malmö, Sweden', '#'],
+                  ['📍', 'Location', , '#'],
                 ].map(([icon, lbl, val, href], i) => (
                   <a key={i} className="contact-card" href={href} target="_blank" rel="noreferrer">
                     <div className="contact-icon">{icon}</div>

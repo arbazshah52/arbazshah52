@@ -5,7 +5,7 @@ let currentLang = "en";
 // Load translations JSON
 async function loadTranslations(lang) {
   try {
-    const response = await fetch("translations.json");
+    const response = await fetch("./translations.json");
     const data = await response.json();
 
     const translations = data[lang];
@@ -72,8 +72,18 @@ if (menuIcon && mobileNav) {
 // Smooth scroll (optional)
 document.querySelectorAll("a[href^='#']").forEach(link => {
   link.addEventListener("click", function (e) {
+    const target = this.getAttribute("href");
+    if (!target || target === "#") {
+      return;
+    }
+
+    const section = document.querySelector(target);
+    if (!section) {
+      return;
+    }
+
     e.preventDefault();
-    document.querySelector(this.getAttribute("href")).scrollIntoView({
+    section.scrollIntoView({
       behavior: "smooth"
     });
   });
