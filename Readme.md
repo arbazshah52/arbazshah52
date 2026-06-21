@@ -20,7 +20,6 @@ I thrive in multicultural environments and bring a global, interdisciplinary per
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arbazshah11@gmail.com)
 
-
 <br>
 
 ## 💻 Tech Stack:
